@@ -1,0 +1,97 @@
+html, body
+{
+  height:100%;
+  margin:0;
+}
+#nav
+{
+  height:12.5%;
+  width:100%;
+  background-color:#43d3e0;
+  margin:auto;
+  text-align:center;
+  text-shadow: 1px 2px blue;
+}
+a
+{
+  text-decoration:none;
+  font-size:28px;
+  margin-left:25px; 
+  margin-right:25px;
+  margin-top:20px;
+  color:#ff4d4d;
+  font-family:'Poppins', serif;
+  font-weight:bold;
+}
+a:hover
+{
+  text-decoration:none;
+  font-family:'Luckiest Guy', cursive;
+  font-size:40px;
+  margin-left:25px;
+  margin-right:25px;
+  margin-top:20px;
+}
+#main
+
+{
+  height:75%;
+  background-image: url("../img/history2.jpg");
+  background-repeat:no-repeat;
+  background-size:100% 100%;
+  width:100%;
+  margin:auto;
+  font-family:'Poppins', cursive;
+  text-align:center;
+  
+  color:red;
+  font-weight:bold;
+  text-shadow: 1px 2px blue;
+} 
+#footer
+{
+  height:12.5%;
+  background-color:#43d3e0;
+  width:100%;
+  margin-bottom: 25px;
+}
+#history
+
+/*p
+  {
+  font-family: "Oswald, sans-serif;
+  color:  red;
+  line-height: 1.1;
+  text-shadow: 1px 1px blue;
+  text-indent: 50px;
+  } */
+  
+
+
+
+/*{
+  font-family:'Luckiest Guy',cursive;
+  font-size:62px;
+  color: red;
+  } */
+
+
+.ourhistory
+{
+  font-style:(normal)italics;
+  padding: 100px;
+  color:red;
+  text-shadow: 1px 1px blue;
+  text-indent: 50px;
+}
+
+h3
+{
+  font-family: "Oswald", sans-serif;
+  color:  #ff0000;
+  line-height: 1.1;
+  text-shadow: 1px 1px blue;
+  text-indent: 50px;
+  text-align: justiy;
+  
+}
